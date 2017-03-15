@@ -1,2 +1,2 @@
-# 2016-workshop
-Repo for primary 2016 workshop application
+
+This repo is deprecated. Please use https://github.com/gocd-demo/GoCD-workshop-setup
